@@ -1,0 +1,13 @@
+D:\pROJECT\c#\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\pROJECT\c#\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\pROJECT\c#\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Admin.AdminUserControl.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainForm.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.SignIn.SignInUserControl.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.EmpBuyer.EmpBuyerUserControl.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.EmpSeller.EmpSellerUserControl.resources
