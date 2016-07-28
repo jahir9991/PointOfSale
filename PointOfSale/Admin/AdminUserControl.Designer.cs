@@ -69,18 +69,18 @@
             // tabPageProducts
             // 
             this.tabPageProducts.BackColor = System.Drawing.Color.DimGray;
-            this.tabPageProducts.Location = new System.Drawing.Point(4, 22);
+            this.tabPageProducts.Location = new System.Drawing.Point(4, 29);
             this.tabPageProducts.Name = "tabPageProducts";
             this.tabPageProducts.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageProducts.Size = new System.Drawing.Size(933, 366);
+            this.tabPageProducts.Size = new System.Drawing.Size(933, 323);
             this.tabPageProducts.TabIndex = 1;
             this.tabPageProducts.Text = "Products";
             // 
             // tabPageAbout
             // 
-            this.tabPageAbout.Location = new System.Drawing.Point(4, 22);
+            this.tabPageAbout.Location = new System.Drawing.Point(4, 29);
             this.tabPageAbout.Name = "tabPageAbout";
-            this.tabPageAbout.Size = new System.Drawing.Size(933, 366);
+            this.tabPageAbout.Size = new System.Drawing.Size(933, 323);
             this.tabPageAbout.TabIndex = 2;
             this.tabPageAbout.Text = "About";
             this.tabPageAbout.UseVisualStyleBackColor = true;
@@ -129,8 +129,9 @@
             // 
             // label3
             // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(784, 465);
+            this.label3.Location = new System.Drawing.Point(770, 474);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(77, 13);
             this.label3.TabIndex = 5;

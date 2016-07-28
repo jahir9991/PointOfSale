@@ -11,3 +11,5 @@ D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainForm.resources
 D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.SignIn.SignInUserControl.resources
 D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.EmpBuyer.EmpBuyerUserControl.resources
 D:\pROJECT\c#\PointOfSale\PointOfSale\obj\Debug\PointOfSale.EmpSeller.EmpSellerUserControl.resources
+D:\pROJECT\c#\PointOfSale\PointOfSale\bin\Debug\sosnok_pos_db.mdf
+D:\pROJECT\c#\PointOfSale\PointOfSale\bin\Debug\sosnok_pos_db_log.ldf
